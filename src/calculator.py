@@ -18,7 +18,6 @@ def mul(a, b):
 def div(a, b):
     return a / b
 
-
 if __name__ == "__main__":
     # Input values
     a = 4
